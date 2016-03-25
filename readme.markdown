@@ -22,7 +22,6 @@ This project comes with a `gulpfile` that includes:
 
 ### Useful gulp tasks
 
-The
 * `gulp fast`:
     * linting
     * unit tests
